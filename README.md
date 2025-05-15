@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Morgensteern
+# 👩🏻‍💻 Felipe Morgenstern
 
 **`Estudante`**
 
