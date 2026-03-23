@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Felipe Arthur de Souza Morgenstern, tenho 18 anos e sou natural de Toledo/Pr. Concluí o ensino médio no Colégio Presidente Castelo Branco(PREMEN). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Biopark. Desde criança sou fissurado em tecnologia e esportes, são duas coisas que me movem.
+Me chamo Felipe Arthur de Souza Morgenstern, tenho 18 anos e sou natural de Toledo/Pr. Concluí o ensino médio no Colégio Presidente Castelo Branco(PREMEN). Atualmente, estou cursando Engenharia de Software na Unipar. Desde criança sou fissurado em tecnologia e esportes, são duas coisas que me movem.
 
 ### 🤖 Linguagens e Tecnologias
 
